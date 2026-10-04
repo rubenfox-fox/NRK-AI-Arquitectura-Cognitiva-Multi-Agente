@@ -1,4 +1,4 @@
-# NRK-AI: Framework de Orquestación Multi-Agente
+# NRK-AI: Arquitectura Cognitiva Multi-Agente
 
 This kernel operates via external modules independent of the orchestrator's core instructions:
 
