@@ -1,11 +1,9 @@
-# NRK-AI
-This kernel operates via external modules independent of the orchestrator's core instructions. Here's a brief overview:
+# NRK-AI: Framework de Orquestación Multi-Agente
 
-- A Director Orchestrator Agent manages operations across layers (or stages).
-- Each layer contains secondary agents.
-- Every secondary agent and sub-agent has its own customized instructions.
-- Research agents leverage dorks, RSS feeds, Python, and our proprietary tools to streamline their tasks.
+This kernel operates via external modules independent of the orchestrator's core instructions:
 
-This modular design ensures high efficiency and specialization. Shall we schedule a call to dive deeper?
+* **Director Orchestrator Agent:** Governs operations, state execution, and cross-layer transitions.
+* **Hierarchical Specialization:** Each layer houses specialized secondary agents and sub-agents governed by custom instructions.
+* **Active Execution:** Research agents leverage advanced search queries, RSS streams, custom Python scripts, and proprietary toolsets.
 
-The project is fully operational and enables the creation of high-end, highly performant specialized agents.
+This decoupled, modular design ensures strict functional separation, high throughput, and fault tolerance for high-end multi-agent deployments.
